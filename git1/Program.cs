@@ -10,7 +10,8 @@ namespace git1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello git1");
+            // Dette er en clone af git1
+            Console.WriteLine("hello git2");
             Console.WriteLine("ny ændring");
             Console.ReadLine();
 
