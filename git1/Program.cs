@@ -11,8 +11,8 @@ namespace git1
         static void Main(string[] args)
         {
             // Dette er en clone af git1
-            Console.WriteLine("hello git2");
-            Console.WriteLine("ny ændring");
+            Console.WriteLine("hello git1 ændret på pc2");
+            Console.WriteLine("ny ændring på pc2");
             Console.ReadLine();
 
         }
